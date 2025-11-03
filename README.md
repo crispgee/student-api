@@ -4,7 +4,7 @@ A simple RESTful API built with .NET 6+ and Dapper ORM for managing student reco
 The API allows you to create, read, update, and delete students, following REST best practices and proper HTTP status codes.
 
 Prerequisites
-Download Micrsoft .NET Freamework
+Download Micrsoft .NET Framework
 Download PostgreSQL 
 Install Dapper and Npgsql
 
