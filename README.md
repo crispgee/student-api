@@ -50,7 +50,7 @@ API Endpoints
 All endpoints and their responses and error handling
 
 1. Create a Student
-2. Assumption: User must enter age manually and will not be automatically calculated
+   Assumption: User must enter age manually and will not be automatically calculated
 
 POST /api/students
 
