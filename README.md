@@ -6,7 +6,7 @@ The API allows you to create, read, update, and delete students, following REST 
 Prerequisites
 Download Micrsoft .NET Freamework
 Download PostgreSQL 
-Install Dapper nad Npgsql
+Install Dapper and Npgsql
 
 Setup your database[
 CREATE TABLE Students(
@@ -21,10 +21,11 @@ CREATE TABLE Students(
 Setup Instructions
 
 1. Clone the repository
-git clone https://github.com/crispgee/student-api.git
+git clone
+https://github.com/crispgee/student-api.git
 cd student-api
 
-2. Configure database connection
+3. Configure database connection
 
 Edit appsettings.json:
 
